@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ColorPicker</string>
+    <string name="set_color">Set Color</string>
+</resources>
